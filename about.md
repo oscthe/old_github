@@ -9,10 +9,10 @@ My name is Oscar Thelander and I am a Quantitative Analyst in Stockholm, Sweden.
 </p>
 
 <p>
-I have a B.Sc. in Economics and "two" M.Sc. in Finance/Finance and Banking, as I attended a double-degree program at University of Gothenburg and University of Rome Tor Vergata. During my education I focused on quantitative analysis and modelling, an interest I am fortunate to pursue professionally and upon which I continuously try to improve.
+I have a B.Sc. in Economics and two M.Sc. in Finance/Finance and Banking, as I attended a double-degree program at University of Gothenburg and University of Rome Tor Vergata. During my education I focused on quantitative analysis and modelling, an interest I am fortunate to pursue professionally and upon which I continuously try to improve.
 </p>
 
-I have a broad interest within the data analysis-domain and find many aspects fascinating: data quality, EDA, feature engineering, supervised learning, regression analysis, model validation and so on. In my spare time I enjoy tinkering and reading about programming and modelling where I'm currently focused on:
+I have a broad interest within the data analysis-domain and find most aspects fascinating: data quality, EDA, feature engineering, supervised learning, regression analysis, model validation and so on. In my spare time I enjoy tinkering and reading about programming and modelling where I'm currently focused on:
 - Deep Learning applied to finance and economics (pricing, asset allocation, etc.)
 - 
 - 
@@ -20,12 +20,12 @@ I have a broad interest within the data analysis-domain and find many aspects fa
 
 
 ### Tools I have worked with
-**Languages**: Python, SQL, SAS, Matlab, VBA, HTML, CSS, Stata.    \\
+**Languages**: Python, Java, SQL, SAS, Matlab, VBA, HTML, CSS, JavaScript, Stata.    \\
 **Packages**: pandas, NumPy, scikit-learn, SciPy, Tensorflow, Keras, Matplotlib, seaborn, plotly, statsmodels, BeautifulSoup4, ... \\
 **Tools**: Docker, Git, MLflow, MS Office.
 
 ### Other
-Beyond work and obsessing about data I enjoy travelling, reading, and sports. I played a lot of team sports (handball, football) growing up but nowadays enjoy running and powerlifting.
+In my spare time I enjoy travelling, reading, and sports. I played a lot of team sports (handball, football) growing up but nowadays enjoy running and powerlifting.
 
 ### Contact me
 Email: [oscarga.thelander@gmail.com](mailto:oscarga.thelander@gmail.com)
