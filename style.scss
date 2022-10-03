@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.4 $helvetica;
+  font: 14px/1.4 $helvetica;
   color: $darkGray;
   text-align: justify;
 }
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 18px;
   a {
     color: inherit;
   }
@@ -268,7 +268,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 12px;
   }
 }
 
