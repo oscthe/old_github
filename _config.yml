@@ -6,10 +6,10 @@
 name: Oscar Thelander
 
 # Short bio or description (displayed in the header)
-description: Quantitative Analyst from Stockholm, Sweden
+description: Quantitative Analyst - Stockholm, Sweden
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: jekyll-logo.png
+avatar: /images/Bild2.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: jekyll-logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: oscarga.thelander@gmail.com
   facebook:
   flickr:
   github: oscthe

@@ -1,0 +1,6 @@
+I"O<p>In my master’s thesis I tested the effect of different calibration techniques on option pricing models. More specifically, I looked at whether the choice of objective function had an effect on the performance and empirical specification of a model developed by prof. David Bates. In this post, I challenge my thesis using the latest neural network specifications reported in the literature.</p>
+
+<p>In my thesis I looked at Bates model, which is a stochastic volatility model with a jump-diffusion component. Basically it’s a combination of the Heston option pricing model (i.e. the stochastic volatility component) and Merton’s jump model (i.e. the jump-diffusion component). Its mathematical formulation is as follows:</p>
+
+<p>In David Bates paper the model was initially proposed and evaluated on ~20,000 foreign exchange-options.</p>
+:ET

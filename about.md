@@ -1,15 +1,31 @@
 ---
 layout: page
-title: About
+title: Hi there!
 permalink: /about/
 ---
 
-Some information about you!
+<p>
+My name is Oscar Thelander and I am a Quantitative Analyst in Stockholm, Sweden.
+</p>
 
-### More Information
+<p>
+I have a B.Sc. in Economics and "two" M.Sc. in Finance/Finance and Banking, as I attended a double-degree program at University of Gothenburg and University of Rome Tor Vergata. During my education I focused on quantitative analysis and modelling, an interest I am fortunate to pursue professionally and upon which I continuously try to improve.
+</p>
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a broad interest within the data analysis-domain and find many aspects fascinating: data quality, EDA, feature engineering, supervised learning, regression analysis, model validation and so on. In my spare time I enjoy tinkering and reading about programming and modelling where I'm currently focused on:
+- Deep Learning applied to finance and economics (pricing, asset allocation, etc.)
+- 
+- 
+
+
+
+### Tools I have worked with
+**Languages**: Python, SQL, SAS, Matlab, VBA, HTML, CSS, Stata.    \\
+**Packages**: pandas, NumPy, scikit-learn, SciPy, Tensorflow, Keras, Matplotlib, seaborn, plotly, statsmodels, BeautifulSoup4, ... \\
+**Tools**: Docker, Git, MLflow, MS Office.
+
+### Other
+Beyond work and obsessing about data I enjoy travelling, reading, and sports. I played a lot of team sports (handball, football) growing up but nowadays enjoy running and powerlifting.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Email: [oscarga.thelander@gmail.com](mailto:oscarga.thelander@gmail.com)
