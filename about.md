@@ -12,16 +12,10 @@ My name is Oscar Thelander and I am a Quantitative Analyst in Stockholm, Sweden.
 I have a B.Sc. in Economics and two M.Sc. in Finance/Finance and Banking, as I attended a double-degree program at University of Gothenburg and University of Rome Tor Vergata. During my education I focused on quantitative analysis and modelling, an interest I am fortunate to pursue professionally and upon which I continuously try to improve.
 </p>
 
-I have a broad interest within the data analysis-domain and find most aspects fascinating: data quality, EDA, feature engineering, supervised learning, regression analysis, model validation and so on. In my spare time I enjoy tinkering and reading about programming and modelling where I'm currently focused on:
-- Deep Learning applied to finance and economics (pricing, asset allocation, etc.)
-- 
-- 
-
-
-
+I have broad interests within data science and programming and find most aspects fascinating: algorithms, data quality, EDA, feature engineering, supervised learning, regression analysis, model validation and so on. In my spare time I enjoy tinkering and reading about programming and modelling. I'm currently focusing on deep learning.
 ### Tools I have worked with
 **Languages**: Python, Java, SQL, SAS, Matlab, VBA, HTML, CSS, JavaScript, Stata.    \\
-**Packages**: pandas, NumPy, scikit-learn, SciPy, Tensorflow, Keras, Matplotlib, seaborn, plotly, statsmodels, BeautifulSoup4, ... \\
+**Packages**: pandas, NumPy, scikit-learn, SciPy, Tensorflow, Keras, PyTorch, Matplotlib, seaborn, plotly, statsmodels, BeautifulSoup4, ... \\
 **Tools**: Docker, Git, MLflow, MS Office.
 
 ### Other
