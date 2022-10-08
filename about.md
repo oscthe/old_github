@@ -16,7 +16,7 @@ I have broad interests within data science and programming and find most aspects
 ### Tools I have worked with
 **Languages**: Python, Java, SQL, SAS, Matlab, VBA, HTML, CSS, JavaScript, Stata.    \\
 **Packages**: pandas, NumPy, scikit-learn, SciPy, Tensorflow, Keras, PyTorch, Matplotlib, seaborn, plotly, statsmodels, BeautifulSoup4, ... \\
-**Tools**: Docker, Git, MLflow, MS Office.
+**Tools**: Git, Docker, MLflow, MS Office.
 
 ### Other
 In my spare time I enjoy travelling, reading, and sports. I played a lot of team sports (handball, football) growing up but nowadays enjoy running and powerlifting.
