@@ -3,10 +3,12 @@ layout: page
 title: Hi there!
 permalink: /about/
 ---
+<img src="/images/Bild2.png" width="138" height="153" class="floatRight imgFixer">
 
 <p>
 My name is Oscar Thelander and I am a Quantitative Analyst in Stockholm, Sweden.
 </p>
+
 
 <p>
 I have a B.Sc. in Economics and two M.Sc. in Finance/Finance and Banking, as I attended a double-degree program at University of Gothenburg and University of Rome Tor Vergata. During my education I focused on quantitative analysis and modelling, an interest I am fortunate to pursue professionally and upon which I continuously try to improve.
