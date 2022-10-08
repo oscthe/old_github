@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Hi there!
+title: 
 permalink: /about/
 ---
 <img src="/images/Bild2.png" width="138" height="153" class="floatRight imgFixer">
 
+### Hi there!
 <p>
 My name is Oscar Thelander and I am a Quantitative Analyst in Stockholm, Sweden.
 </p>
