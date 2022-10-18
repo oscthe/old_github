@@ -1,0 +1,40 @@
+I"@<div class="posts">
+  
+    <article class="post">
+
+      <h1><a href="/Olympic-History/">EDA of Olympic History</a></h1>
+
+      <div class="entry">
+        <p>A quick look at the development of the Olympics: Women vs Men, Young vs Old, Sweden’s participation, and more.</p>
+
+      </div>
+
+      <a href="/Olympic-History/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/Missing-Values/">Techniques for dealing with missing values</a></h1>
+
+      <div class="entry">
+        <p>In the process of data wrangling, dealing with missing values is an inevitable step. There are many techniques for solving this problem, popular choices being: mean, median, most frequent, kNN, and regression. Herein I evaluate these 5 methods over X different datasets, focusing on Mediocristan vs Extremistan.</p>
+
+      </div>
+
+      <a href="/Missing-Values/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/Masters-Thesis/">Can I beat my thesis using Deep Learning?</a></h1>
+
+      <div class="entry">
+        <p>In my master’s thesis I tested the effect of different calibration techniques on option pricing models. More specifically, I looked at whether the choice of objective function had an effect on the performance and empirical specification of a model developed by prof. David Bates. In this post, I challenge my thesis using the latest neural network specifications reported in the literature.</p>
+
+      </div>
+
+      <a href="/Masters-Thesis/" class="read-more">Read More</a>
+    </article>
+  
+</div>
+:ET
