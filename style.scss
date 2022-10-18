@@ -292,7 +292,12 @@ footer {
 
 
 .floatRight{float:right;margin-left:20px}
-.floatCenter{float:center;margin-left:400px;margin-right:400px;}
+
+.floatCenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .imgFixer{
   border-radius: 10px;
