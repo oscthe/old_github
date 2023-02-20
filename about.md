@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /about/
 ---
-<img src="/images/Bild2.png" width="138" height="153" class="floatRight imgFixer">
+<!-- <img src="/images/Bild2.png" width="138" height="153" class="floatRight imgFixer"> -->
 
 ### Hi there!
 <p>
