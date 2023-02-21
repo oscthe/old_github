@@ -5,16 +5,15 @@ permalink: /readings/
 ---
 
 <p>
-This page contains books and papers I've read and applied something from, i.e. creating a post based on some idea I gathered from it.
+This page contains books and papers I've read, perhaps applied something from, and recommend to others!
 </p>
 
 ### Books
 
-
 ### Papers
 
+### Blogs
 
-### Articles
 
 
 
